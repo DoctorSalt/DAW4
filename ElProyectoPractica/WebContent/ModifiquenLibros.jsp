@@ -143,10 +143,9 @@ stmt = conn.createStatement();
 			</div>
 		</form>
 		<div class="row">
-			<div class="col-12 mt-3 col-md-6 col-lg-6">
-				<a
-					href="/ElProyectoPractica/opcionesComprobantes?lugarRedireccion=libros"
-					class="btn btn-danger">Volver</a>
+			<div class=" text-center col-12 mt-3 col-md-12 col-lg-12">
+				<a href="/ElProyectoPractica/opcionesComprobantes?lugarRedireccion=libros"
+					class="btn btn-lg btn-danger">Volver</a>
 			</div>
 		</div>
 		<div class="row">
